@@ -1,6 +1,6 @@
 {
   "dns": "https://cloudflare-dns.com/dns-query",
-  "remote_address": "https://shadowsocks-ws-production-7c2f.up.railway.app/",
+  "remote_address": "https://69d8.up.railway.app/",
   "remote_port": 80,
   "local_address": "127.0.0.1",
   "local_port": 8787,
